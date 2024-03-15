@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Kirana-reddy2/Table-Project1/static/css/main.f6481bac.css",
-    "main.js": "/Kirana-reddy2/Table-Project1/static/js/main.ccbef4fb.js",
-    "static/js/453.64512fd7.chunk.js": "/Kirana-reddy2/Table-Project1/static/js/453.64512fd7.chunk.js",
-    "index.html": "/Kirana-reddy2/Table-Project1/index.html",
-    "main.f6481bac.css.map": "/Kirana-reddy2/Table-Project1/static/css/main.f6481bac.css.map",
-    "main.ccbef4fb.js.map": "/Kirana-reddy2/Table-Project1/static/js/main.ccbef4fb.js.map",
-    "453.64512fd7.chunk.js.map": "/Kirana-reddy2/Table-Project1/static/js/453.64512fd7.chunk.js.map"
+    "main.css": "/Kirana-reddy2/Table-Project1.git/static/css/main.f6481bac.css",
+    "main.js": "/Kirana-reddy2/Table-Project1.git/static/js/main.9bbe40b5.js",
+    "static/js/453.64512fd7.chunk.js": "/Kirana-reddy2/Table-Project1.git/static/js/453.64512fd7.chunk.js",
+    "index.html": "/Kirana-reddy2/Table-Project1.git/index.html",
+    "main.f6481bac.css.map": "/Kirana-reddy2/Table-Project1.git/static/css/main.f6481bac.css.map",
+    "main.9bbe40b5.js.map": "/Kirana-reddy2/Table-Project1.git/static/js/main.9bbe40b5.js.map",
+    "453.64512fd7.chunk.js.map": "/Kirana-reddy2/Table-Project1.git/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6481bac.css",
-    "static/js/main.ccbef4fb.js"
+    "static/js/main.9bbe40b5.js"
   ]
 }
